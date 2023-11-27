@@ -2,19 +2,20 @@
   background-color: lightskyblue;
   text-align: center;
 }
-section{
-  color: #ffff;
-  background-color: #487681;
-  height: 130vh;
-}
-.navBg{
-  background-color: #3a6fa0;
-}
 body {
   margin: 0;
   padding: 0;
   font-family: 'Arial', sans-serif;
 }
+
+section{
+  color: #ffff;
+  background-color: #487681;
+}
+.navBg{
+  background-color: #3a6fa0;
+}
+
 
 #root {
   display: flex;

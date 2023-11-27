@@ -1,0 +1,17 @@
+.header {
+    background-color: #06539b; 
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .header h1 {
+    margin: 0;
+    font-size: 2em; 
+  }
+  
+  .header h5 {
+    font-size: 1.2em; 
+    margin-top: 10px;
+  }

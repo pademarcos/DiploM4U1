@@ -1,0 +1,17 @@
+
+.navBg {
+    background-color: #3a6fa0; 
+  }
+  
+  .navbar-brand {
+    color: #fff; 
+  }
+  
+  .navbar-nav .nav-link {
+    color: #fff; 
+    margin-right: 15px; 
+  }
+  
+  .navbar-toggler-icon {
+    background-color: #fff; 
+  }

@@ -3,6 +3,7 @@ import imagen1 from "../img/e1.jpg"
 import imagen2 from "../img/e2.jpg"
 import imagen3 from "../img/e3.jpg"
 import CamaraCard from "../components/layout/CamaraCard";
+import "../styles/components/pages/ProductosPage.css";
 
 
 export const camaras = [

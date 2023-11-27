@@ -13,8 +13,8 @@ const Home = () => {
           alt="First slide"
         />
         <Carousel.Caption>
-          <h5>Primera foto</h5>
-          <p>Explora el arte de la fotografía con nosotros. 📷 ¡Contáctanos para descubrir las mejores cámaras del mercado!</p>
+          <h5>Explora el arte de la fotografía con nosotros.</h5>
+          <p>Contáctanos para descubrir las mejores cámaras del mercado.</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -24,8 +24,8 @@ const Home = () => {
           alt="Second slide"
         />
         <Carousel.Caption>
-          <h5>Second slide label</h5>
-          <p>Captura momentos únicos con nuestras cámaras de alta gama. 🌈 ¡Contacta y eleva tu experiencia fotográfica!</p>
+        <h5>Captura momentos únicos con nuestras cámaras de alta gama.</h5>
+            <p>Contacta y eleva tu experiencia fotográfica.</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -35,10 +35,8 @@ const Home = () => {
           alt="Third slide"
         />
         <Carousel.Caption>
-          <h5>Third slide label</h5>
-          <p>
-          Las mejores imágenes comienzan con las mejores cámaras. 🚀 ¡Conéctate con nosotros y descubre la diferencia!
-          </p>
+        <h5>Las mejores imágenes comienzan con las mejores cámaras.</h5>
+            <p>Conéctate con nosotros y descubre la diferencia.</p>
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>

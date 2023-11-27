@@ -17,11 +17,11 @@ const Novedades = () => {
   return (
     <Fragment>
       <h1>Novedades</h1>
-      <div className="container novedades-container">
+      <div>
         <div className="row">
           <div className="col">
             <h3>Listado de Novedades</h3>
-            <table className="table">
+            <table className="table table-bordered table-responsive novedades-container">
               <thead>
                 <tr className="table-dark">
                   <th scope="col">#</th>

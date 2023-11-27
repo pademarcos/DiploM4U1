@@ -1,4 +1,5 @@
 import React, { Fragment } from "react";
+import "../../styles/components/layout/Header.css"
 
 const Header = (props) => {
   return (

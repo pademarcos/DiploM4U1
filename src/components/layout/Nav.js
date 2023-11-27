@@ -1,6 +1,7 @@
 import React, { Fragment } from "react";
 import { Container, Nav, Navbar } from "react-bootstrap";
 import { Outlet, Link } from "react-router-dom";
+import "../../styles/components/layout/Nav.css"
 
 function Navegador() {
   return (

@@ -1,4 +1,19 @@
+
 .carousel {
-   margin-bottom: 80vh; 
-   height: 90%;
-  }
+   height: 70vh; 
+ }
+ 
+ .carousel-caption {
+   background-color: rgba(0, 0, 0, 0.5); 
+   padding: 20px;
+ }
+ 
+ .carousel-caption h5 {
+   font-size: 2em;
+ }
+ 
+ .carousel-caption p {
+   font-size: 1.2em;
+   margin-top: 10px; 
+ }
+ 
