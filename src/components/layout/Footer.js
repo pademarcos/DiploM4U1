@@ -1,9 +1,10 @@
 import React from "react";
 import {} from "@fortawesome/free-solid-svg-icons";
+import "../../styles/components/layout/Footer.css"
 
 const Footer = (props) => {
   return (
-    <div>
+    <div className="footer">
       <button>
         <svg
           xmlns="http://www.w3.org/2000/svg"

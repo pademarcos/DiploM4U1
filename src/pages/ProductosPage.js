@@ -30,18 +30,15 @@ export const camaras = [
             ]
 const Productos = () => {
     return ( 
-        <Fragment>
+        <Fragment >
             <h2>Cámaras Fotográficas</h2>
-          <div className="container d-flex justify-content-center align-items-center h-100">
+            <h5 className="container">Las cámaras profesionales tienen sensores más grandes que las cámaras semiprofesionales, lo que significa que pueden capturar una mayor cantidad de luz y producir imágenes de calidad infinitamente superior. Si desea imágenes de alta definición, definitivamente debe optar por una plantilla profesional.</h5>
+          <div className="container d-flex justify-content-center align-items-center h-90 mt-4">
             <div className="row">
                 { 
                     camaras.map (props=> (
                         <div className="col-md-4" key={props.id}>
-                            
-                           
                            <CamaraCard key={props.id} nombre={props.nombre} imagen={props.imagen} descripcion={props.descripcion} precio={props.precio}/>
-
-
                           </div>  
                     ))
                 }

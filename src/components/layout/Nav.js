@@ -12,8 +12,7 @@ function Navegador() {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
-              <Nav.Link as={Link} to="/">Home</Nav.Link>
-              <Nav.Link as={Link} to="/Nosotros">Nosotros</Nav.Link>
+              <Nav.Link as={Link} to="/Novedades">Novedades</Nav.Link>
               <Nav.Link as={Link} to="/Productos">Productos</Nav.Link>
               <Nav.Link as={Link} to="/Contacto">Contacto</Nav.Link>
             </Nav>

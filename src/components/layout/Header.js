@@ -1,5 +1,4 @@
 import React, { Fragment } from "react";
-import { Button } from "react-bootstrap";
 
 const Header = (props) => {
   return (
@@ -7,9 +6,9 @@ const Header = (props) => {
     
       <header className="header">
         <h1>TechTrend</h1>
-        <h5>Lorem ipsum dolor sit amet.</h5>
+        <h5>LA DIFERENCIA ENTRE UNA CÁMARA RÉFLEX PROFESIONAL Y UNA DE AFICIONADO.</h5>
       </header>
-      <Button onClick={props.onAdd}>Prueba</Button>
+      
     
     </Fragment>
   );

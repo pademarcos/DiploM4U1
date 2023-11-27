@@ -1,0 +1,6 @@
+.novedades-container {
+  padding-bottom: 100px;
+  overflow-y: auto;
+  position: relative;
+  z-index: 1;
+}

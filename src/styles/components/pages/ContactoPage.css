@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  
+  .form-container {
+    width: 48%; 
+  }
+  
+  .text-container {
+    width: 48%; 
+  }
+  .fotocontacto{
+    width: 70%;
+  }
+
+  .botonenviar{
+    margin-top: 15px;
+  }
